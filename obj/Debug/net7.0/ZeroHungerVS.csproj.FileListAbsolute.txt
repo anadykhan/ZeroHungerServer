@@ -1,0 +1,92 @@
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/appsettings.Development.json
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/appsettings.json
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/ZeroHungerVS
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/ZeroHungerVS.deps.json
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/ZeroHungerVS.runtimeconfig.json
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/ZeroHungerVS.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/ZeroHungerVS.pdb
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.csproj.AssemblyReference.cache
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.AssemblyInfoInputs.cache
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.AssemblyInfo.cs
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.csproj.CoreCompileInputs.cache
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.MvcApplicationPartsAssemblyInfo.cs
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.MvcApplicationPartsAssemblyInfo.cache
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets/msbuild.ZeroHungerVS.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets/msbuild.build.ZeroHungerVS.props
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ZeroHungerVS.props
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ZeroHungerVS.props
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets.build.json
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets.development.json
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/scopedcss/bundle/ZeroHungerVS.styles.css
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.csproj.CopyComplete
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/refint/ZeroHungerVS.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.pdb
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.genruntimeconfig.cache
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ref/ZeroHungerVS.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/DnsClient.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/SharpCompress.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/Snappier.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/ZstdSharp.dll
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/aiyounkhan/Projects/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/appsettings.Development.json
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/appsettings.json
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/ZeroHungerVS
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/ZeroHungerVS.deps.json
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/ZeroHungerVS.runtimeconfig.json
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/ZeroHungerVS.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/ZeroHungerVS.pdb
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/AWSSDK.Core.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/AWSSDK.SecurityToken.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/DnsClient.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/MongoDB.Bson.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/MongoDB.Driver.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/MongoDB.Driver.Core.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/MongoDB.Libmongocrypt.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/SharpCompress.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/Snappier.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/ZstdSharp.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/runtimes/linux/native/libmongocrypt.so
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/runtimes/osx/native/libmongocrypt.dylib
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/bin/Debug/net7.0/runtimes/win/native/mongocrypt.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.csproj.AssemblyReference.cache
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.AssemblyInfoInputs.cache
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.AssemblyInfo.cs
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.csproj.CoreCompileInputs.cache
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.MvcApplicationPartsAssemblyInfo.cs
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.MvcApplicationPartsAssemblyInfo.cache
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets/msbuild.ZeroHungerVS.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets/msbuild.build.ZeroHungerVS.props
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ZeroHungerVS.props
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ZeroHungerVS.props
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets.build.json
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/staticwebassets.development.json
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/scopedcss/bundle/ZeroHungerVS.styles.css
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.csproj.CopyComplete
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/refint/ZeroHungerVS.dll
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.pdb
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ZeroHungerVS.genruntimeconfig.cache
+/Users/aiyounkhan/Documents/Web Development Journey/ZeroHungerVS/ZeroHungerVS/obj/Debug/net7.0/ref/ZeroHungerVS.dll
